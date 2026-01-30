@@ -61,6 +61,7 @@
 
     /** HEADER **/
     --header-padding: 4rem 0 0;
+
     /** FOOTER **/
     --footer-padding: 5rem 0 1rem;
 
@@ -251,9 +252,6 @@
     justify-content: space-between;
   }
 
-  .header-logo {
-    position: var(--header-logo-position);
-  }
 
   /* Footer
       ============================= */
